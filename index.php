@@ -6,7 +6,7 @@
 </head>
 <body lang="es">
 
-
+		<h3>Introduzca sus datos</h3>
 		<form>
 			<input type="text" name="nombre">
 			<input type="date" name="fechanac">
