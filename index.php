@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="ytf-8"/>
-	<tittle>Un ejemplo de repositorio 'git'</tittle>
+	<meta charset="utf-8"/>
+	<tittle>Un ejemplo de repositorio git</tittle>
 </head>
 <body lang="es">
+
+
+		<form>
+			<input type="text" name="nombre">
+			<input type="date" name="fechanac">
+			<button name="enviar">Enviar datos</button>
+		</form>
 </body>
 </html>
