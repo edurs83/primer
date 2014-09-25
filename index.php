@@ -7,6 +7,7 @@
 <body lang="es">
 		<form>
 			<input type="text" name="nombre">
+			<input type="date" name="fechanac">
 			<button name="enviar">Enviar datos</button>
 		</form>
 </body>
