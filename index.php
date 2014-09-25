@@ -2,8 +2,8 @@
 <html>
 <head>
 	<meta charset="ytf-8"/>
-	<tittle>Mi primer repositorio</tittle>
+	<tittle>Un ejemplo de repositorio 'git'</tittle>
 </head>
-<body lang)="es">
+<body lang="es">
 </body>
 </html>
